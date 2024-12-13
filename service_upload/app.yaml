@@ -1,0 +1,3 @@
+service: upload-service
+runtime: nodejs18
+env: standard
